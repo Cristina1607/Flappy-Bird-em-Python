@@ -1,0 +1,9 @@
+flappy-bird/
+│
+├── flappy_bird.py               
+├── assets/                       
+│   ├── background.jpg            
+│   ├── bird.png                
+│   └── pipe.png                  
+├── README.md                      
+└── LICENSE                      
